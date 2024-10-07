@@ -1,3 +1,1 @@
-Dota database
-
-docker-compose setup mysql and oracle db
+### scripts databases docker compose
